@@ -1,0 +1,15 @@
+C:\Users\Martusia\Desktop\c#\pracaDomowa3\pracaDomowa3\bin\Debug\net6.0\pracaDomowa3.exe
+C:\Users\Martusia\Desktop\c#\pracaDomowa3\pracaDomowa3\bin\Debug\net6.0\pracaDomowa3.deps.json
+C:\Users\Martusia\Desktop\c#\pracaDomowa3\pracaDomowa3\bin\Debug\net6.0\pracaDomowa3.runtimeconfig.json
+C:\Users\Martusia\Desktop\c#\pracaDomowa3\pracaDomowa3\bin\Debug\net6.0\pracaDomowa3.dll
+C:\Users\Martusia\Desktop\c#\pracaDomowa3\pracaDomowa3\bin\Debug\net6.0\pracaDomowa3.pdb
+C:\Users\Martusia\Desktop\c#\pracaDomowa3\pracaDomowa3\obj\Debug\net6.0\pracaDomowa3.csproj.AssemblyReference.cache
+C:\Users\Martusia\Desktop\c#\pracaDomowa3\pracaDomowa3\obj\Debug\net6.0\pracaDomowa3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martusia\Desktop\c#\pracaDomowa3\pracaDomowa3\obj\Debug\net6.0\pracaDomowa3.AssemblyInfoInputs.cache
+C:\Users\Martusia\Desktop\c#\pracaDomowa3\pracaDomowa3\obj\Debug\net6.0\pracaDomowa3.AssemblyInfo.cs
+C:\Users\Martusia\Desktop\c#\pracaDomowa3\pracaDomowa3\obj\Debug\net6.0\pracaDomowa3.csproj.CoreCompileInputs.cache
+C:\Users\Martusia\Desktop\c#\pracaDomowa3\pracaDomowa3\obj\Debug\net6.0\pracaDomowa3.dll
+C:\Users\Martusia\Desktop\c#\pracaDomowa3\pracaDomowa3\obj\Debug\net6.0\refint\pracaDomowa3.dll
+C:\Users\Martusia\Desktop\c#\pracaDomowa3\pracaDomowa3\obj\Debug\net6.0\pracaDomowa3.pdb
+C:\Users\Martusia\Desktop\c#\pracaDomowa3\pracaDomowa3\obj\Debug\net6.0\pracaDomowa3.genruntimeconfig.cache
+C:\Users\Martusia\Desktop\c#\pracaDomowa3\pracaDomowa3\obj\Debug\net6.0\ref\pracaDomowa3.dll
